@@ -1,0 +1,299 @@
+body
+{
+   margin:0;
+   padding: 0;
+   box-sizing: border-box;
+   -webkit-font-smoothing:antialised;
+}
+
+header
+{
+   width:1550px;
+   height:100px;
+   background-color: #9cd31c;
+   color:rgb(41, 85, 206);
+
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.head1
+{
+   margin-left: 5%;
+}
+
+.head2
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width:300px;
+    height:88px;
+    margin-right: 0%;
+    margin-left:5%;
+}
+
+.head3
+{
+    margin-right: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width:200px;
+}
+
+.head
+{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:60px;
+    width:1550px;
+}
+
+.home
+{
+    margin-left: 15%;
+}
+
+.Experience
+{
+    margin-right: 20%;
+}
+
+.main1
+{
+    height : 600px;
+    background-color: #3DCFD3;
+    width:1550px;
+}
+
+.name 
+{
+    margin-top : 0%;
+    margin-left: 42%;
+}
+
+.photu
+{
+    margin-left: 39%;
+    margin-top:2%;
+    height:30px;
+}
+
+.enthusiasm
+{
+    margin-top:20%;
+    margin-left: 37%;
+}
+
+.desc
+{
+    margin-top:1.5%;
+    margin-left: 17%;
+    font-size: large;
+}
+
+.main2
+{
+    height : 600px;
+    width:1550px;
+    background-color: #3DCFD3;
+}
+
+.left
+{
+    font-family: cursive;
+    margin-left: 41%;
+}
+
+.right
+{
+    display: flex;
+   align-items: center;
+}
+
+.photu1
+{
+    margin-left: 1%;
+    margin-top: 5%;
+}
+
+.abt
+{
+    margin-left:3%;
+}
+
+h3
+{
+    font-family: cursive;
+}
+
+
+.main3
+{
+    height : 600px; 
+    width:1550px;
+    background-color: #3DCFD3;
+}
+
+.part1
+{
+    margin-left: 44%;
+}
+
+.part2
+{
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.serve1
+{
+    margin-left: 10%;
+    margin-top: 4%;
+}
+
+.serve2
+{
+    margin-top: 4%;
+}
+
+.serve3
+{
+    margin-right: 17%;
+    margin-top: 4%;
+}
+
+button
+{
+    height: 400px;
+    width: 300px;
+    border-radius: 4%;
+    background-color: black;
+    color: rgb(201, 238, 34);
+}
+button:hover
+{
+    background-color: yellow;
+    color: black;
+    transition-duration: 0.5s;
+}
+
+ .main4
+{
+    height : 600px;
+    width:1550px;
+    background-color: #3DCFD3;
+}
+
+.txt1
+{
+    margin-left:43%;
+}
+
+.txt2
+{
+    display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+}
+
+.server1
+{
+    margin-top: 4%;
+    margin-left: 2%;
+}
+
+.server2
+{
+    margin-top: 4%;
+    margin-left: 4%;
+}
+
+.server3
+{
+    margin-left: 4%;
+    margin-top: 4%;
+}
+
+.server4
+{
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 4%;
+} 
+
+.main5
+{
+    height : 600px;
+    width:1550px;
+    background-color: #3DCFD3;
+}
+
+.alt1
+{
+    font-family: cursive;
+    margin-left:42%;
+}
+
+.alt2
+{
+display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.prt1
+{
+    margin-left: 7%;
+}
+
+.prt2 
+{
+    margin-right: 3%;
+}
+
+.alt3
+{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.prt3
+{
+    margin-left: 10%;
+}
+
+.prt4
+{
+    margin-right: 18%;
+}
+
+footer
+{
+    background-color: black;
+    color: yellow;
+    height: 50px;
+    width: 1550px;
+
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.create
+{
+    margin-left: 22%;
+}
+
+.year
+{
+    margin-right: 18%;
+}
